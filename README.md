@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Full-Stack Developer seeking for challenges in my field.
+
 <!--
 **AdriQuiz/AdriQuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
