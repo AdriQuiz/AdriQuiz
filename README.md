@@ -2,6 +2,7 @@
 
 I am a Full-Stack Developer seeking challenges in my field. 
 
+<br>
 
 **The stack I work with is composed of**
 
@@ -14,6 +15,7 @@ I am a Full-Stack Developer seeking challenges in my field.
   <img src="https://img.shields.io/badge/php-%238892bf.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
+<br>
 
 🌱 I’m currently learning:
 
@@ -21,6 +23,7 @@ I am a Full-Stack Developer seeking challenges in my field.
   <img src="https://img.shields.io/badge/adobe%20photoshop-%239bc3fc.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=%233c327b" alt="Adobe Photoshop"/>
 </div>
 
+<br>
 
 📫 How to reach me:
 
