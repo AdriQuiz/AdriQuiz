@@ -6,7 +6,9 @@ I am a Full-Stack Developer seeking for challenges in my field.
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
 </div>
+
 
 <!--
 **AdriQuiz/AdriQuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
