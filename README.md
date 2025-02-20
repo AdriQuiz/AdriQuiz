@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Full-Stack Developer seeking for challenges in my field. 
+I am a Full-Stack Developer seeking challenges in my field. 
 
 
 **The stack I work with is composed of**
