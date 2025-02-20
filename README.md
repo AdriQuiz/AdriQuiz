@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Full-Stack Developer seeking for challenges in my field.
+I am a Full-Stack Developer seeking for challenges in my field. 
 
 **The stack I work with is composed of**
 
@@ -13,6 +13,19 @@ I am a Full-Stack Developer seeking for challenges in my field.
   <img src="https://img.shields.io/badge/php-%238892be.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
+###🌱 I’m currently learning:
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%239bc3fc.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=%233c327b" alt="Adobe Photoshop"/>
+</div>
+
+###📫 How to reach me:
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/adriana-christina-quiroz-correa-7b34082a1/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 <!--
 **AdriQuiz/AdriQuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
