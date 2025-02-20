@@ -10,7 +10,7 @@ I am a Full-Stack Developer seeking for challenges in my field.
   <img src="https://img.shields.io/badge/flutter-%230553B1.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
   <img src="https://img.shields.io/badge/node.js-%2344883e.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/php-%238892be.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" alt="PHP"/>
 </div>
 
 🌱 I’m currently learning:
