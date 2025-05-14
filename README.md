@@ -21,6 +21,7 @@ I am a Full-Stack Developer seeking challenges in my field.
 
 <div display="flex">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%239bc3fc.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=%233c327b" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/next.js-%239bc3fc.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=%233c327b" alt="Adobe Photoshop"/>
 </div>
 
 <br>
